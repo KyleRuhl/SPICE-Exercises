@@ -2,7 +2,7 @@ import csv
 import os
 import numpy as np
 
-pathin = '/Users/kyleruhl/Desktop/'
+pathin = '/Users/kyleruhl/documents/GitHub/SPICE-Exercises/Ewaste_Calculator_Python/'
 filein = 'Ewaste_Product_Breakdown.csv' 
 #DATAFILE UNITS: plastic, aluminium, copper in grams, total ewaste in kg, co2 in kg co2 equilavent
 
@@ -35,6 +35,7 @@ def checkformat(userin):
         return False
 
 #interactive portion- get user input
+'''
 counts1 = []
 print("To calculate your E-waste footprint, enter in digit format the following questions...")
 for var in range(len(ewaste)):
@@ -44,8 +45,8 @@ for var in range(len(ewaste)):
         counts1.append(response) #if a positive or 0 number, accept
     else:
          counts1.append(np.NaN) #if not, nan
-
-#counts1 = [3,2,4,0,3,1,1,0,0,2,0,1,0,2,1,0,1,0] #preset input list for code testing purposes
+'''
+counts1 = [3,2,4,0,3,1,1,0,0,2,0,1,0,2,1,0,1,0] #preset input list for code testing purposes
 
 plastic = []
 aluminium = []
