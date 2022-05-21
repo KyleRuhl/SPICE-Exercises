@@ -1,4 +1,4 @@
-#Corn Growing Degree Days
+# Corn Growing Degree Days
 
 TASK: Create a Growing Degree Day Calculator for Corn using the given 2021 weather observation dataset Ithaca_2021_wxdata.csv
 
@@ -12,9 +12,9 @@ Growing Degree Days (GDD) is calculated using the following formula:
 Where the GDD for the period is given by summing the **positive** daily GDDs over the period only. 
 
 Then, Categorize the corn growing status over the given period by using the following decision rules:
-<100 GDD = Poor 
+Less than 100 GDD = Poor 
 100-200 GDD = Good
->200 GDD = Very Good
+Greater than 200 GDD = Very Good
 
 Finally, calculate the total rainfall (in inches) over the given period. 
 Then output to the console the total number of GDD days, the total rainfall, and the corn status for the time period. 
