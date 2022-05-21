@@ -1,4 +1,4 @@
-##Climatology
+# Climatology
 
 Assignment: Create and plot a time series of average yearly maximum and minimum temperatures at a given location.
 
