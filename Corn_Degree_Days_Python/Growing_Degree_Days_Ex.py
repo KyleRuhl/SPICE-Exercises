@@ -22,7 +22,7 @@ Additional Resources for Corn Growing Degree Days:
 http://climatesmartfarming.org/tools/csf-growing-degree-day-calculator/ from Cornell University
 https://mrcc.purdue.edu/gismaps/info/gddinfo.htm from Purdue University
 
-To find a dataset in a different year or location, go to https://www.ncdc.noaa.gov/cdo-web/search?datasetid=GHCND,
+To find a dataset in a different year or location, go to https://www.ncdc.noaa.gov/cdo-web/search,
 select 'Daily Summaries', your perfered date range, 'zip codes', enter your zip code, and press search. 
 Press 'add to cart' on the station you want, then press the orange cart button to go to your cart.
 In output format, choose 'Custom GHCN-Daily CSV', verify your date range, and press continue.
