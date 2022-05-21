@@ -4,7 +4,7 @@ The sample response uses weather data from the weather station at an airport in 
 
 This project incorporates matplotlib, pandas, datetime string conversions, and temperature trends.
 
-To download a CSV datafile, students should go to https://crt-climate-explorer.nemac.org/?lat=33.45&lon=-112.07&mode=daily_vs_climate&zoom=9
+To download a CSV datafile, students should go to https://crt-climate-explorer.nemac.org/
 and enter a city of their choice. Then, click on 'Historical Weather Data'. They should then select a station.
 Next, press 'Downloads' > 'Download temperature data' and retrieve their CSV file. 
 
