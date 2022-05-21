@@ -1,4 +1,4 @@
-#Clean Energy Data Analysis
+# Clean Energy Data Analysis
 
 TASK: Download the PowerPlants.csv file and complete the code chunks in the blank RMD file PowerPlant_Energy_Analysis.Rmd. 
 
