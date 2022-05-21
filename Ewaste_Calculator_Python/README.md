@@ -1,4 +1,4 @@
-#E-waste Calculator
+# E-waste Calculator
 
 TASK: Create an ewaste calculator program that calculates a users total material usage (plastic, aluminium, copper, total materials) and carbon footprint based on the number of common e-waste items they have used/discarded in their lifetime. Use the provided dataset Ewaste_Product_Breakdown.csv as a key for the material costs and carbon footprint of one of 18 common products.
 
